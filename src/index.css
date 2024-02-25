@@ -1,10 +1,15 @@
 body {
-  margin: 0;
+  margin: 8px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('../src/images/d1ac88a62fe903b4f35442ed60663e2f.jpg');
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
 }
 
 code {
